@@ -58,7 +58,7 @@ Jackets the lowest (~19K).
 
 Blouses & Shirts scored highest on ratings; Jeans balanced both sales & ratings.
 
-Takeaway: Skirts are the volume leader; Jeans/Dresses are strong balanced performers.
+Takeaway: High sales don’t always equal highest customer satisfaction. Skirts sold most, but Blouses won on ratings.
 
 Q3. Do Discounts Actually Boost Sales?
 
@@ -72,7 +72,7 @@ Low Discount: ~255 avg sales.
 
 No Discount: ~249 avg sales.
 
-Takeaway: Discounts drive sales, but need balance with profit.
+Takeaway: Discounts boosted sales — high discounts drove the most volume.
 
 Q4. Optimal Product Mix
 
@@ -80,11 +80,13 @@ Question: Which products balance both high sales and strong customer ratings?
 
 Findings:
 
-Hero products: Beach Shirts, Blouses, Chino Shorts, Summer Dresses, Biker Jackets.
+Beach Shirts and Blouses dominate the mix — top ratings and top sales.
 
-These items combine both high demand and high ratings.
+Chino Shorts & Summer Dresses hold steady with good ratings, moderate sales.
 
-Takeaway: Focus on hero products + balanced mix = sustainable strategy.
+Biker Jackets, while well-rated, lag behind in sales.
+
+Takeaway: Beach Shirts & Blouses delivered the best mix of popularity and customer satisfaction.
 
 Q5. Year-over-Year Trend Analysis
 
@@ -126,7 +128,7 @@ Margins are stable (~32–34%).
 
 Shirts have the highest (~34%), Blouses the lowest (~31%).
 
-Takeaway: Efficiency is consistent—growth depends on scaling volume.
+Takeaway: Profit margins across categories stayed close, but Shirts maintained the best efficiency.me.
 
 📈 Tableau Story & Dashboard
 
@@ -148,7 +150,7 @@ Q6b: Profit Margin % by Category
 
 Interactive Dashboard with filters (Category, Season, Year)
 
-👉 Tableau Public Story Link Here
+👉 https://public.tableau.com/shared/2HFHWMSG7?:display_count=n&:origin=viz_share_link
 
 🔑 Key Insights (Summary)
 
