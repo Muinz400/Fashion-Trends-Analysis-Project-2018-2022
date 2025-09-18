@@ -142,10 +142,10 @@ Takeaway: Profit margins across categories stayed close, but Shirts maintained t
 
 **Tableau Story & Dashboard**
 
-👉 [View Tableau Story on Tableau Public](https://public.tableau.com/views/FashionTrends2018-2022/FashionTrendsAnalysisStory2018-2022?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View Tableau Story on Tableau Public](https://public.tableau.com/views/FashionTrends2018-2022/FashionTrendsAnalysisStory2018-2022?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
-📈The Tableau Story includes:
+The Tableau Story includes:
 
 **Interactive Dashboard with filters (Category, Season, Year)**
 
@@ -186,8 +186,13 @@ Takeaway: Profit margins across categories stayed close, but Shirts maintained t
 <img width="900" alt="Q6b Profit Margin % By Category" src="https://github.com/user-attachments/assets/a8eec192-877c-418c-be58-8771fe878d57" />
 
 
+**Python Notebook (Extra Analysis)**
 
-**🔑 Key Insights (Summary)**
+For validation and additional exploration, see the Jupyter Notebook here:
+[Fashion Trends Extra Analysis (Python)](https://github.com/Muinz400/Fashion-Trends-Analysis-Project-2018-2022/blob/main/Python/fashion_trends_analysis.ipynb)
+
+
+**Key Insights (Summary)**
 
 Seasonality is strong: Summer = Skirts/Shorts; Winter = Jeans/Dresses.
 
